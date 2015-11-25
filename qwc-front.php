@@ -33,6 +33,7 @@ function qwc_add_filters_front() {
 
 		/* two-argument filters */
 		'woocommerce_attribute_label' => 20,
+		'woocommerce_get_product_attributes' => 1,
 		'woocommerce_cart_shipping_method_full_label' => 20,
 		'woocommerce_cart_tax_totals' => 20,
 		'woocommerce_email_footer_text' => 20,
